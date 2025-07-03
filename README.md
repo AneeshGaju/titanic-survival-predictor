@@ -1,4 +1,4 @@
-TITANIC SURVIVAL PREDICTOR
+# TITANIC SURVIVAL PREDICTOR
 
 A machine learning project that predicts whether a passenger survived the Titanic disaster using logistic features such as class, sex, age, fare, and family relationships.
 
